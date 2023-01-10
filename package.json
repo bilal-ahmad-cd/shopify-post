@@ -1,0 +1,17 @@
+{
+  "name": "learn-seq",
+  "version": "1.0.0",
+  "description": "This code is for learning purpose.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bilal Ahmad",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.27.0"
+  }
+}
